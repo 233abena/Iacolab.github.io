@@ -16,7 +16,9 @@ Navigating the transplant process is overwhelming, we're here to make it easier.
 Whether you're applying for the first time or updating an existing profile, our technology ensures your story is seen and your needs are heard.
 
 ## Sociome
-We're working on this really cool project!
+# What's the Sociome?
+The “sociome” encompasses all the environments where people are born, live, learn, work, play, worship, and age that impact people’s health
+There are parts of our lives that impact how healthy we are that don’t have to do with a medical chart – things like where we live, how we think and act, how much money we have, our exposure to sunshine, noise, violence, and more. The Sociome Data Commons is a breakthrough tool for scientists to analyze a lot of information to learn what makes us healthy or sick – and the datasets even include hyperlocal information, like neighborhoods, that other tools haven’t been able to capture.
 
 ## Conferences
 - Lorem ipsum dolor sit amet,
